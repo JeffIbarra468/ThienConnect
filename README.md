@@ -1,1 +1,1 @@
-# TinhConnect
+# Connect between Thien and Jeff
